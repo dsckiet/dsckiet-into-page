@@ -150,7 +150,7 @@ li {
 }
 
 .leaders-info {
-  margin-top: 50px;
+  margin-top: 40px;
 }
 .leaders-info p {
   margin: 8px 0;
@@ -159,6 +159,7 @@ li {
 .leaders-contact {
   display: flex;
   justify-content: space-evenly;
+  margin-top: 16px;
 }
 .leaders-card {
   width: 280px;
@@ -178,8 +179,8 @@ li {
 .image-container {
   background: #f7faff;
   border-radius: 50%;
-  width: 160px;
-  height: 160px;
+  width: 140px;
+  height: 140px;
   /* position: absolute;
     transform: translate(59px,47px); */
   left: 50%;
